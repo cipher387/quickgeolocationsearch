@@ -19,6 +19,8 @@
             <p>
                So far there are only 15 sites collected here, but I plan to add more in the near future. Follow the news <a href="https://twitter.com/cyb_detective?ref_src=twsrc%5Etfw" class="twitter-follow-button" data-show-count="false">Follow @cyb_detective</a><script async src="https://platform.twitter.com/widgets.js"></script>
             </p>
+            <table>
+               <tr><td>
             <form>
                <div class="form-group">
                   <label>Enter latitude:</label>
@@ -27,7 +29,12 @@
                   <input type="text" class="form-control" value="2.28" id="longitude">
                </div>
             </form>
-            If you don't know the geographic coordinates of your target, you can use <a href="https://www.latlong.net">latlong.net</a></br></br>
+                  </td>
+                  <td>
+                     <div id="map"></div>
+                  </td>
+               </tr>
+         
             <p>
                <button type="button" onclick="buttonOpen('GoogleMaps')" style="background-color:blue;color:white" class="btn-link">Google Maps</button>
                <button type="button" onclick="buttonOpen('YandexMaps')" style="background-color:red;color:white" class="btn-link">Yandex Maps</button>
