@@ -47,6 +47,11 @@
 {
   width:450px;
   height:250px;
+  margin:30px;
+}
+#table
+{
+  text-align:center;
 }
 .well
 {
