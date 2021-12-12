@@ -48,7 +48,7 @@ function buttonOpen(buttonValue) {
     links["SentinelHub"] = "https://apps.sentinel-hub.com/sentinel-playground/?source=S2L2A&lat="+latitude+"&lng="+longitude+"&zoom=12&preset=1_TRUE_COLOR&layers=B01,B02,B03&maxcc=20&gain=1.0&gamma=1.0&time=2021-06-01%7C2021-12-06&atmFilter=&showDates=false";
     links["Copernix"] = "https://copernix.io/#?where="+longitude+","+latitude+",9&?query=&?map_type=hybrid";
     links["Openstreetmap"] = "https://www.openstreetmap.org/#map=10/"+latitude+"/"+longitude;
-    links["Shademap"] = "https://shademap.app/#"+latitude+","+longitude;
+ 
 
     window.open(links[buttonValue]);
 
