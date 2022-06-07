@@ -48,6 +48,7 @@ function buttonOpen(buttonValue) {
     links["Opencellid"] = "https://opencellid.org/#zoom=13&lat="+latitude+"&lon="+longitude;
     links["GoogleMaps"] = "https://www.google.com/maps/@"+latitude+","+longitude+",12.12z";
     links["ShadowMap"] = "https://app.shadowmap.org/?lat="+latitude+"&lng="+longitude+"&zoom=16&basemap=map&time=1654604735200&vq=2";
+    links["SunCalc"] = "https://www.suncalc.org/#/"+latitude+","+longitude+"/2022.06.07/15:53/1/3";
     links["SentinelHub"] = "https://apps.sentinel-hub.com/sentinel-playground/?source=S2L2A&lat="+latitude+"&lng="+longitude+"&zoom=12&preset=1_TRUE_COLOR&layers=B01,B02,B03&maxcc=20&gain=1.0&gamma=1.0&time=2021-06-01%7C2021-12-06&atmFilter=&showDates=false";
     links["Copernix"] = "https://copernix.io/#?where="+longitude+","+latitude+",9&?query=&?map_type=hybrid";
     links["Openstreetmap"] = "https://www.openstreetmap.org/#map=10/"+latitude+"/"+longitude;
