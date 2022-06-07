@@ -30,8 +30,8 @@ myMap.events.add('click', function (e) {
 
 function buttonOpen(buttonValue) {
 
-    latitude = Number(document.getElementById("latitude").value).toFixed(2);
-    longitude = Number(document.getElementById("longitude").value).toFixed(2);
+    latitude = Number(document.getElementById("latitude").value).toFixed(4);
+    longitude = Number(document.getElementById("longitude").value).toFixed(4);
 	
 
     const links = [];
