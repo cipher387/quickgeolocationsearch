@@ -5,6 +5,10 @@
  
 <img alt="GitHub forks" src="https://img.shields.io/github/forks/cipher387/quickgeolocationsearch">
 
+[![contributions welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat)](https://github.com/dwyl/esta/issues)
+    <p align="center">
+
+
 This simple tool helps save a lot of time when gathering information about geolocation. Enter latitude and longitude once and click the buttons with the names of online maps, to quickly jump to it.
 
 https://cipher387.github.io/quickgeolocationsearch/
