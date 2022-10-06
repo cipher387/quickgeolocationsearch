@@ -36,6 +36,7 @@ function buttonOpen(buttonValue) {
 
     const links = [];
     links["YandexMaps"] = "https://maps.yandex.com/?ll="+longitude+","+latitude+"&pt="+longitude+","+latitude;
+    links["YandexPhotos"] = "https://yandex.com/maps/?l=pht&ll="+longitude+","+latitude+"&pt="+longitude+","+latitude;
     links["Twitter"] = "https://twitter.com/search?q=near%3A"+latitude+"%2C"+longitude+"&src=typed_query&f=live";
     links["Onlyfinder"] = "https://onlyfinder.com/location%3a"+latitude+"%2c"+longitude+"%2c100km/profiles/";
     links["Ventusky"] = "https://www.ventusky.com/"+latitude+";"+longitude;
