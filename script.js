@@ -54,6 +54,7 @@ function buttonOpen(buttonValue) {
     links["Copernix"] = "https://copernix.io/#?where="+longitude+","+latitude+",9&?query=&?map_type=hybrid";
     links["Openstreetmap"] = "https://www.openstreetmap.org/#map=10/"+latitude+"/"+longitude;
     links["YouTube"] = "https://mattw.io/youtube-geofind/location?location="+latitude+","+longitude+"&doSearch=true";
+    links["OpenMapSwitcher"] = "https://tankaru.github.io/OpenSwitchMapsWeb/index.html#https://www.openstreetmap.org/#map=10/"+latitude+"/"+longitude;
 
     window.open(links[buttonValue]);
 
