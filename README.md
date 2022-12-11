@@ -17,14 +17,5 @@ https://cipher387.github.io/quickgeolocationsearch/
 
 <hr>
 
-Twitter — https://twitter.com/cyb_detective
 
-Telegram — https://t.me/cybdetective
-
-Revue — https://www.getrevue.co/profile/cyb_detective
-
-Github — https://github.com/cipher387
-
-Discord — https://cipher387.github.io/discordlink.html
-
-<hr>
+Thank you for following me! [@cyb_detective](https://linktr.ee/cyb_detective)
