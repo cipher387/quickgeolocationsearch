@@ -18,4 +18,4 @@ https://cipher387.github.io/quickgeolocationsearch/
 <hr>
 
 
-Thank you for following me! [@cyb_detective](https://linktr.ee/cyb_detective)
+Thank you for following me! https://cybdetective.com
